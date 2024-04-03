@@ -2,5 +2,5 @@
 Changelog for package gazebo_set_joint_positions_plugin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.2 (2024-04-03)
+------------------
